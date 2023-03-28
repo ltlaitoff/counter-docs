@@ -2,8 +2,9 @@
 
 ### Links
 
-Frontend rep: [link](https://github.com/ltlaitoff/counter-frontend)
-Backend rep: [link](https://github.com/ltlaitoff/counter-backend)
+> Frontend rep: [link](https://github.com/ltlaitoff/counter-frontend)
+
+> Backend rep: [link](https://github.com/ltlaitoff/counter-backend)
 
 #### Notes:
 ```diff 
